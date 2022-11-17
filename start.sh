@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=4081f5d1-4b19-418f-8014-b2b37087cf35
+AUUID=8c4d3622-16a4-4643-a83f-a5f16b02d627
 CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/wertgs1/storm/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/wertgs1/storm/master/etc/xray.json
